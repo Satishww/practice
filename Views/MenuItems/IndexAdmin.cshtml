@@ -1,0 +1,34 @@
+﻿@model IEnumerable<TruYumCaseStudyMVC.Models.MenuItem>
+@{ ViewBag.Title = "Menu Items - TruYum";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h1>Menu Items</h1>
+<hr />
+<p class="h4">@Html.ActionLink("Create New", "Create", "MenuItems")</p>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr class="success">
+            <th>Name</th>
+            <th>Price</th>
+            <th>Active</th>
+            <th>Date of Launch</th>
+            <th>Name</th>
+            <th>Free Delivery</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var menuItem in Model)
+        {
+<tr>
+    <td>@menuItem.Name</td>
+    <td>@menuItem.Price</td>
+    <td>@Html.DisplayFor(m => menuItem.Active)</td>
+    <td>@Html.DisplayFor(m => menuItem.DateOfLaunch)</td>
+    <td>@menuItem.Category.Name</td>
+    <td>@Html.DisplayFor(m => menuItem.FreeDelivery)</td>
+    <td>@Html.ActionLink("Edit", "Edit", "MenuItems", new { id = menuItem.Id }, null)</td>
+</tr>
+}
+    </tbody>
+</table>

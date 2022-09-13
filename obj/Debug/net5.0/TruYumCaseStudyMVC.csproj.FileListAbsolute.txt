@@ -1,0 +1,312 @@
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.exe
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.deps.json
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.json
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.dev.json
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.AssemblyReference.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfoInputs.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfo.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CoreCompileInputs.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.Manifest.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.xml
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\scopedcss\bundle\TruYumCaseStudyMVC.styles.css
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.input.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.output.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorCoreGenerate.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CopyComplete
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.genruntimeconfig.cache
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\Index.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\IndexAdmin.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\MenuItemForm.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\AddToCartSuccess.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\EmptyCart.cshtml.g.cs
+C:\Users\2145580\source\repos\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.AssemblyReference.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfoInputs.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfo.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CoreCompileInputs.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.exe
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.deps.json
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.json
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.dev.json
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.Manifest.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.xml
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\scopedcss\bundle\TruYumCaseStudyMVC.styles.css
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.input.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.output.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorCoreGenerate.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\AddToCartSuccess.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\EmptyCart.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\Index.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\IndexAdmin.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\MenuItemForm.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cache
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cs
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CopyComplete
+C:\Users\2145580\OneDrive - Cognizant\Documents\ICT4\TruYumCaseStudyMVC(1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.genruntimeconfig.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.StaticWebAssets.xml
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.exe
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.deps.json
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.json
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.dev.json
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.AssemblyReference.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfoInputs.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfo.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CoreCompileInputs.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\scopedcss\bundle\TruYumCaseStudyMVC.styles.css
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.Manifest.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.input.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.output.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorCoreGenerate.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\AddToCartSuccess.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\EmptyCart.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\Index.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\IndexAdmin.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\MenuItemForm.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cs
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CopyComplete
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\refint\TruYumCaseStudyMVC.dll
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.genruntimeconfig.cache
+C:\Users\2155915\Downloads\TruYumCaseStudyMVC (3)\TruYumCaseStudyMVC\TruYumCaseStudyMVC\obj\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.StaticWebAssets.xml
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.exe
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.deps.json
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.json
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.runtimeconfig.dev.json
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.AssemblyInfo.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorAssemblyInfo.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\scopedcss\bundle\TruYumCaseStudyMVC.styles.css
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\staticwebassets\TruYumCaseStudyMVC.StaticWebAssets.Manifest.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.input.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.TagHelpers.output.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorCoreGenerate.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\AddToCartSuccess.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\EmptyCart.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\Index.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\IndexAdmin.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\MenuItems\MenuItemForm.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.Views.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.csproj.CopyComplete
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\refint\TruYumCaseStudyMVC.dll
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.pdb
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\TruYumCaseStudyMVC.genruntimeconfig.cache
+C:\Users\hp\Documents\TruYumCaseStudyMVC (1)\TruYumCaseStudyMVC\obj\Debug\net5.0\ref\TruYumCaseStudyMVC.dll
